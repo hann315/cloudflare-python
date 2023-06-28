@@ -4,6 +4,8 @@ This repository contains a Python program that enables you to manage domains in 
 
 ## Installation
 
+ It's recommended to use Python 3.6 or higher.
+
 1. Clone the repository to your local machine:
 
 ```bash
